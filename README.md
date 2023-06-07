@@ -31,7 +31,7 @@ DKT를 이용해 주어진 최종 문제를 학생이 맞출지 틀릴치 예측
 <br>
 
 ## EDA & Feature Engineering
-Feature Engineering 결과는 LGBM 모델에서 주로 사용하였습니다.
+Feature Engineering 결과는 LGBM 모델에서 주로 사용하였다.
 
 ### 1. EDA
 
