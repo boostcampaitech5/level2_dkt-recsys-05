@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+wandb
+torch
+torch_geometric
+torch_cluster
+torch_sparse
+torch_scatter
