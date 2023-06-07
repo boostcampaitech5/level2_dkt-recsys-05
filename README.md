@@ -92,8 +92,8 @@ Feature Engineering 결과는 LGBM 모델에서 주로 사용하였다.
 ## 모델
 크게 3가지 계열(ML 계열, Transformer 계열, GNN 계열)의 모델을 사용해 결과를 냈다.
 
-### 1. 모델 탐구 (주요 탐구 대상 **굵게**처리)
-
+### 1. 모델 탐구
+(주요 탐구 대상 **굵게**처리)
 - ML 계열 : **LGBM(LightGBM)**, Catboost, XGBoost
 - Transformer 계열 : **BERT**, **Saint+**, XLnet, ELECTRA, LastQuery
 - GNN 계열 : **LGCN(LightGCN)**
